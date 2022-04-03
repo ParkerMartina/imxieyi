@@ -1,7 +1,7 @@
 # Architecture
 
-- Backend: Node HTTP server exposing basic readiness (placeholder).
-- Frontend: Static page (no framework).
-- Contracts: Placeholder solidity contract.
-- Tests: Node built-in test runner.
-- Modules: folder backend/src/modules.
+- Backend: Node HTTP server exposing a basic readiness response (placeholder).
+- Modules: `backend/src/modules` contains small, focused utilities (DEX, lending, yield, stablecoin, governance).
+- Tests: Node built-in test runner in `tests`.
+
+This is a barebones layout suitable for demos; expand per your needs.
