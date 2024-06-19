@@ -1,0 +1,15 @@
+# Sensitive and local files
+.github_accounts.csv
+project_description.txt
+temp.txt
+# Node
+node_modules/
+.nyc_output/
+coverage/
+# Logs
+*.log
+# OS
+.DS_Store
+# Env
+.env
+.env.*
