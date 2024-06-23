@@ -13,3 +13,4 @@ Day 12: progress log
 Day 13: progress log
 Day 14: progress log
 Day 15: progress log
+Day 16: progress log
