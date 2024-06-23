@@ -38,3 +38,4 @@ Day 37: progress log
 Day 38: progress log
 Day 39: progress log
 Day 40: progress log
+Day 41: progress log
