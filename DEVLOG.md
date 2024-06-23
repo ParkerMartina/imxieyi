@@ -17,3 +17,4 @@ Day 16: progress log
 Day 17: progress log
 Day 18: progress log
 Day 19: progress log
+Day 20: progress log
