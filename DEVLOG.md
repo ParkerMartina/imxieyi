@@ -105,3 +105,4 @@ Day 104: progress log
 Day 105: progress log
 Day 106: progress log
 Day 107: progress log
+Day 108: progress log
