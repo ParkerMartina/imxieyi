@@ -27,3 +27,4 @@ Day 26: progress log
 Day 27: progress log
 Day 28: progress log
 Day 29: progress log
+Day 30: progress log
