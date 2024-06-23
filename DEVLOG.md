@@ -6,3 +6,4 @@ Day 5: progress log
 Day 6: progress log
 Day 7: progress log
 Day 8: progress log
+Day 9: progress log
