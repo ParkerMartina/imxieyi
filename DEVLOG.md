@@ -98,3 +98,4 @@ Day 97: progress log
 Day 98: progress log
 Day 99: progress log
 Day 100: progress log
+Day 101: progress log
