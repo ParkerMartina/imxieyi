@@ -21,3 +21,4 @@ Day 20: progress log
 Day 21: progress log
 Day 22: progress log
 Day 23: progress log
+Day 24: progress log
