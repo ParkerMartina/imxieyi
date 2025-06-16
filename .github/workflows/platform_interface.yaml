@@ -112,7 +112,7 @@ jobs:
         working-directory: ${{env.source-directory}}
 
       # Upload code coverage information
-      - uses: codecov/codecov-action@v4
+      - uses: codecov/codecov-action@v5
         with:
           files: ${{env.source-directory}}/coverage/lcov.info
           name: CachedNetworkImage (Platform interface)
