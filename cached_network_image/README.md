@@ -1,22 +1,3 @@
-<<<<<<< HEAD
-# DeFi Pro
-
-A modular DeFi scaffold with core areas: lending, DEX, yield, stablecoin, and governance. This repo is educational and intentionally minimal.
-
-## Quick Start
-- Backend: Node.js HTTP server at port 3000. In tests, the server does not bind a port.
-- Tests: `npm test` using Node's built-in test runner.
-
-## Modules
-- Lending: simple interest calculator.
-- DEX: constant product swap output with fee.
-- Yield: naive auto-compounding.
-- Stablecoin: overcollateralized mint amount helper.
-- Governance: minimal proposals and voting.
-
-## Security
-This repository is for learning only and not production-ready. No audits.
-=======
 # Cached network image
 [![pub package](https://img.shields.io/pub/v/cached_network_image.svg)](https://pub.dartlang.org/packages/cached_network_image)
 [![codecov](https://codecov.io/gh/Baseflow/flutter_cached_network_image/branch/main/graph/badge.svg?token=I5qW0RvoXN)](https://codecov.io/gh/Baseflow/flutter_cached_network_image)
@@ -26,10 +7,17 @@ A flutter library to show images from the internet and keep them in the cache di
 
 
 
-## Sponsors 
- <a href="https://getstream.io/chat/flutter/tutorial/?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=Github_Jan2022_FlutterChat&utm_term=renefloor" target="_blank"><img width="250px" src="https://stream-blog.s3.amazonaws.com/blog/wp-content/uploads/fc148f0fc75d02841d017bb36e14e388/Stream-logo-with-background-.png"/></a><br/><span><a href="https://getstream.io/chat/flutter/tutorial/?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=Github_Jan2022_FlutterChat&utm_term=renefloor" target="_blank">Try the Flutter Chat Tutorial 💬</a></span>
-        
-        
+## Sponsors
+
+<table>    
+    <tbody>
+        <tr>
+            <td align="center">
+                <a href="https://getstream.io/chat/sdk/flutter/?utm_source=ReneFloor&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=ReneFloor_July2022_FlutterSDK_klmh22" target="_blank"><img width="250px" src="https://stream-blog.s3.amazonaws.com/blog/wp-content/uploads/fc148f0fc75d02841d017bb36e14e388/Stream-logo-with-background-.png"/></a><br/><span><a href="https://getstream.io/chat/sdk/flutter/?utm_source=ReneFloor&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=ReneFloor_July2022_FlutterSDK_klmh22" target="_blank">Try the Flutter Chat Tutorial 💬</a></span>
+            </td>            
+        </tr>
+    </tbody>
+</table>
 
 ## How to use
 The CachedNetworkImage can be used directly or through the ImageProvider.
@@ -85,4 +73,3 @@ The cached network images stores and retrieves files using the [flutter_cache_ma
 Does it really crash though? The debugger might pause, as the Dart VM doesn't recognize it as a caught exception; the console might print errors; even your crash reporting tool might report it (I know, that really sucks). However, does it really crash? Probably everything is just running fine. If you really get an app crashes you are fine to report an issue, but do that with a small example so we can reproduce that crash.
 
 See for example [this](https://github.com/Baseflow/flutter_cached_network_image/issues/336#issuecomment-760769361) or [this](https://github.com/Baseflow/flutter_cached_network_image/issues/536#issuecomment-760857495) answer on previous posted issues.
->>>>>>> ee1b4068e4278cda3b7657e42fb66d6e513d09c2
